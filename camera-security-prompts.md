@@ -29,3 +29,5 @@
 
 ## Emergency Cutoff
 "Create a fail-safe where all cameras stop streaming and disconnect from the internet if a breach is detected on my router or main hub."
+
+Curated by [SheSmartTech.com](https://shesmarttech.com/bio) — smart home, automation, and AI expertise.
