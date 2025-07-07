@@ -14,3 +14,5 @@
 
 ## Maintenance
 "Create reminders to test smoke detectors and update firmware every three months."
+
+Curated by [SheSmartTech.com](https://shesmarttech.com) — smart home, automation, and AI expertise.
