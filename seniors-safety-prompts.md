@@ -14,3 +14,5 @@
 
 ## Security Layer
 "List the best smart locks and door sensors for seniors living alone that allow remote unlocking by trusted contacts."
+
+Curated by [SheSmartTech.com](https://shesmarttech.com) — smart home, automation, and AI expertise.
