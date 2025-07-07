@@ -54,4 +54,4 @@ This set of AI prompts helps you analyze, automate, and reduce energy use across
 
 ---
 
-Let your AI assistant or smart hub build these into practical automations. A small investment in thoughtful routines can return hundreds of dollars annually — and a lighter environmental footprint.
+Let your AI assistant or smart hub build these into practical automations. A small investment in thoughtful routines can return hundreds of dollars annually — and a lighter environmental footprint. Curated by [SheSmartTech.com](https://shesmarttech.com) — smart home, automation, and AI expertise.
