@@ -14,3 +14,5 @@
 
 ## Risk Review
 "Give me five privacy risks of mixing platforms and how to reduce them."
+
+Curated by [SheSmartTech.com](https://shesmarttech.com/bio) — smart home, automation, and AI expertise.
